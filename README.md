@@ -1,4 +1,4 @@
-# MSc Computer Science Project
+# BSc Computer Science Project
 
 ## Overview
 
